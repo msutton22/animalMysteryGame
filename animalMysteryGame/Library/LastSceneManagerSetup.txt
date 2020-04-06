@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/caf\xE9Scene.unity"
+- path: Assets/Maddy/testSceneMaddy.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
